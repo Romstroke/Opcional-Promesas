@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+#img{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    width: 90%;
+}
+
+img{
+    width: 200px;
+}
